@@ -1,0 +1,10 @@
+model,metric,value
+LogReg,accuracy,0.01588812853317465
+LogReg,macro_f1,0.008087636469650458
+LogReg,top2_accuracy,0.052186849152038084
+RandomForest,accuracy,0.11258554001785183
+RandomForest,macro_f1,0.054225494323633015
+RandomForest,top2_accuracy,0.3935733412674799
+XGBoost,accuracy,0.24819994049390062
+XGBoost,macro_f1,0.05423639575411067
+XGBoost,top2_accuracy,0.5648914013686402

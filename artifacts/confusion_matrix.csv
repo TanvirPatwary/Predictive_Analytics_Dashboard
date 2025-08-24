@@ -1,0 +1,15 @@
+,anti-social behaviour,bicycle theft,burglary,criminal damage and arson,drugs,other crime,other theft,possession of weapons,public order,robbery,shoplifting,theft from the person,vehicle crime,violence and sexual offences
+anti-social behaviour,756,0,0,0,0,0,0,0,0,0,18,0,0,471
+bicycle theft,36,0,0,0,1,0,0,0,0,0,1,0,0,24
+burglary,405,0,0,0,0,0,0,0,0,0,2,0,0,255
+criminal damage and arson,1017,0,0,0,0,0,0,0,0,0,8,0,0,659
+drugs,490,0,0,0,1,0,0,0,0,0,2,1,0,321
+other crime,324,0,0,0,0,0,0,0,0,0,1,0,0,211
+other theft,600,0,0,0,0,0,3,0,0,0,7,0,0,373
+possession of weapons,122,0,0,0,0,0,0,0,0,0,2,0,0,62
+public order,943,0,0,0,0,0,0,0,1,0,20,0,0,580
+robbery,23,0,0,0,0,0,0,0,0,0,0,0,0,13
+shoplifting,441,0,0,0,0,0,0,0,0,0,64,0,0,144
+theft from the person,41,0,0,0,0,0,0,0,0,0,0,0,0,17
+vehicle crime,195,0,0,0,0,0,0,0,0,0,2,0,0,116
+violence and sexual offences,4640,0,0,1,5,0,0,0,4,0,35,0,1,3346
