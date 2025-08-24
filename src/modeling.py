@@ -150,7 +150,7 @@ def main():
         ("scaler", StandardScaler()),
         ("clf", LogisticRegression(max_iter=1000, class_weight="balanced", multi_class="auto"))
     ])
-    # Stepped-up RF capacity (heavier but still under GitHub/Cloud-friendly sizes when saved with compression)
+    
     rf = RandomForestClassifier(
         n_estimators=280,
         max_depth=13,
